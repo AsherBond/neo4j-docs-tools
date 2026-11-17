@@ -125,6 +125,23 @@
                 ]
             }
         },
+        "cypher-5-only":{
+            "description": "Function available only in Cypher 5",
+            "labelCategory": "product",
+            "product": "Cypher 5",
+            "displayText": "Cypher 5 only",
+            "usage": {
+                "page-role": [
+                    ":page-role: cypher-5-only"
+                ],
+                "role": [
+                    "[role=label--cypher-5-only]"
+                ],
+                "inline": [
+                    "label:cypher-5-only[]"
+                ]
+            }
+        },
         "cypher-25-only":{
             "description": "Function available only in Cypher 25",
             "labelCategory": "product",
